@@ -57,7 +57,6 @@ pywin32-ctypes==0.2.2
 referencing==0.8.9
 requests==2.31.0
 rich==13.4.2
-rpds-py==0.8.10
 six==1.16.0
 smmap==5.0.0
 streamlit==1.25.0
