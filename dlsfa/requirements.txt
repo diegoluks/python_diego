@@ -74,6 +74,6 @@ watchdog==3.0.0
 Werkzeug==2.2.3
 whichcraft==0.6.1
 yarl==1.9.2
-zipp==3.16.2
+zipp==3.15.0
 zope.event==5.0
 zope.interface==6.0
