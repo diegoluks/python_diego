@@ -1,1 +1,1 @@
-web: gunicorn copia_do_bitly:app
+web: gunicorn copia_do_bitly.py:app
