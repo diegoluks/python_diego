@@ -70,7 +70,6 @@ tzdata==2023.3
 tzlocal==4.3.1
 urllib3==2.0.4
 validators==0.20.0
-vboxapi==1.0
 watchdog==3.0.0
 Werkzeug==2.3.7
 whichcraft==0.6.1
