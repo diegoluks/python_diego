@@ -1,1 +1,1 @@
-web: gunicorn bitly:app
+web: gunicorn --chdir bitly:app
