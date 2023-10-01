@@ -72,7 +72,7 @@ tzlocal==4.3.1
 urllib3==2.0.4
 validators==0.20.0
 watchdog==3.0.0
-Werkzeug==2.3.7
+Werkzeug==2.3.3
 whichcraft==0.6.1
 yarl==1.9.2
 zipp==3.16.2
